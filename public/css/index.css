@@ -1,0 +1,43 @@
+#todo,
+#done{
+	width: 49%;
+	float: left;
+	padding: 5px;
+	margin: 0;
+}
+
+#liste_todo{
+    margin: 10px 0 15px 0;
+    list-style-type: none;
+    clear: both;
+}
+
+.cpt{
+	float: left;
+	margin: 0;
+}
+
+#span_archiver{
+	display: none;
+	float: left;
+}
+
+#text_ajouter,
+#ajouter,
+#message_erreur{
+	float: left;
+}
+
+#message_erreur{
+	color: red;
+	margin-left: 5px;
+}
+
+#ajouter_tache{
+	height: 35px;
+}
+
+#done{
+	border-left: 1px solid;
+
+}
